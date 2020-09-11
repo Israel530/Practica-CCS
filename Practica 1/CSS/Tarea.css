@@ -1,8 +1,33 @@
-H1 {color: red;}
 body{
-    background:#94FDAD;
+    background: #95ce9a;
     margin: 0;
     padding: 0;
 }
-h2 {color:#B90707;}
-section {color: blue;}
+h1{
+    color: red;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h2{
+    color: rgb(165, 0, 0);
+    font-family: Arial, Helvetica, sans-serif;
+}
+ul > li > p{
+    color: green;
+}
+span{
+    color: blue;
+}
+.remarcado{
+    font-size: 30px;
+}
+.parrafos{
+    font-size: 20px;
+    color: blue;
+}
+.parrafos2{
+    font-size: 20px;
+    color: blue;
+}
+.hipertexto{
+
+}
